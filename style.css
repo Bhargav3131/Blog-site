@@ -77,21 +77,6 @@ header{
     font-size: 20px;
     text-transform: capitalize;
 }
-.banner form{
-    background: #fff;
-    border-radius: 50px;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-}
-.search-input{
-    font-size: 20px;
-    padding: 8px;
-    border: none;
-}
-.search-input::placeholder{
-    text-transform: capitalize;
-}
 
 
 
