@@ -33,7 +33,7 @@ header{
 .navbar{
     background: rgba(0, 0, 0, 0.6);
     padding: 20px;
-    position: relative;
+    position: fixed;
     z-index: 999;
 }
 .navbar-brand{
