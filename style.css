@@ -193,7 +193,7 @@ header{
 
 /* footer */
 footer{
-    color: #fff;
+    background: rgba(0, 0, 0, 0.9);
     text-align: center;
     padding: 20px;
 }
